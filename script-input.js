@@ -1,3 +1,6 @@
+
+/* Função criada para aplicar a mascara ao campo CPF, assim aplicando os pontos e o hifen no final */
+
 const Cpf = document.querySelector("#cpf");
 
 Cpf.addEventListener("keypress", () => {
@@ -11,6 +14,10 @@ Cpf.addEventListener("keypress", () => {
     Cpf.value += "-";
   }
 });
+
+
+
+/*Função criada para criar a mascar do campo celular, colocando as aspas no código de area, os espaços necessarios e o hifen*/
 
 const tel = document.querySelector("#tel");
 

@@ -1,10 +1,48 @@
+:root {
+
+  --fonte-primaria: "DynaPuff", cursive;
+  --fonte--secundaria:  'Alkatra', cursive;
+  --cor-primaria:#DBD0C0;
+  --cor-secundaria: #FAEEE0;
+  --cor-terciaria: #F9E4C8;
+  --cor-quarta: #F9CF93;
+  --cor-quinta: #45FF55;
+}
+
+
+  
+
+.container{
+  height: 100vh;
+  
+}
+.container-titulo{
+  background-color: var(--cor-secundaria);
+  margin: 20px auto;
+  width: 90%;
+  
+}
+
+.titulo{
+  color: #ffffff;
+  font-size: 150%;
+  padding: 10px;
+  text-align: center;
+  font-family: var(--fonte--secundaria);
+}
+
 .form {
+  max-width: 450px;
+  background-color: var(--cor-primaria);
   display: flex;
   flex-direction: column;
   width: 90%;
   margin: 30px auto;
   text-align: center;
-  gap: 25px;
+  gap: 10px;
+  height: 450px;
+  
+  
 }
 
 #name,
@@ -12,29 +50,29 @@
 #tel,
 #cpf {
   margin-top: 10px;
-  width: 97%;
+  width: 94%;
   height: 25px;
   border-radius: 8px;
   text-align: center;
   font-size: 90%;
-  font-family: "DynaPuff", cursive;
+  font-family: var(--fonte-primaria);
   border: solid black 2px;
 }
 
-input[type="number"]::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-}
-input[type="number"] {
-  -moz-appearance: textfield;
-  appearance: textfield;
-}
 
 label{
-  font-family: 'Shadows Into Light', cursive;
+  font-family: var(--fonte--secundaria) ;
   font-weight: bold;
+  color: #000000;
 }
 
 #sent{
+  margin: auto;
+  width: 40%;
+  color: #000000;
+  background-color: var(--cor-secundaria);
   font-size: 16px;
-  font-family: "DynaPuff", cursive;
+  font-family: var(--fonte-primaria);
 }
+
+

@@ -1,3 +1,5 @@
+//Função criada para utilizar somente letras dentro do campo nome
+
 const inputName = document.querySelector("#name");
 
 inputName.addEventListener("keypress", function (e) {
@@ -12,6 +14,7 @@ inputName.addEventListener("keypress", function (e) {
 
 
 
+// Função criada para utilizar somente números dentro do campo Celular
 
 const telInput = document.querySelector("#tel");
 
@@ -33,9 +36,7 @@ function checkChar(e) {
 
 
 
-
-
-
+// Função criada para utilizar somente números dentro do campo CPF
 
 const cpf = document.querySelector("#cpf");
 
@@ -54,3 +55,5 @@ function checkChar(e) {
     return true;
   }
 }
+
+

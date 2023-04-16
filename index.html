@@ -23,68 +23,76 @@
   <body>
     <header class="container">
       <section class="container-informations">
-        <form class="form">
-          
-          
+        <form id="form">
           <div class="container-titulo">
-            <h1 class="titulo" >Cadastro</h1>
+            <h1 class="titulo">Cadastro</h1>
           </div>
 
-          <div>
-            <label class="">Nome: <br /></label>
+          <div class="nome">
+            <label>Nome: <br /></label>
             <input
-            required
+              name="nome"
+              required
               type="text"
               id="name"
               placeholder="Digite seu nome completo"
               autocomplete="off"
-              class="input required"
+              minlength="3"
             />
-            <span class="span-required">Nome deve ter no mínimo 3 caracteres</span>
+            <span class="mensagem-erro"
+              ></span
+            >
           </div>
-          <div>
+          <div class="email">
             <label>E-mail: <br /></label>
             <input
+              name="email"
               type="email"
               id="email"
               placeholder="Digite seu e-mail"
               autocomplete="off"
-              class="input required"
+              minlength="4"
+              required
             />
-            <span class="span-required">Digite um email válido</span>
+            <span class="mensagem-erro"></span>
           </div>
-          <div>
+          <div class="tel">
             <label>Celular: <br /></label>
             <input
+              name="tel"
               type="text"
               id="tel"
               placeholder="Digite seu número de celular"
               autocomplete="off"
+              minlength="11"
               maxlength="16"
-              class="input required"
+              required
             />
-            <span class="span-required">Digite um número válido</span>
+            <span class="mensagem-erro"></span>
           </div>
-          <div>
+          <div class="cpf">
             <label>CPF: <br /></label>
             <input
+              name="cpf"
               type="text"
               id="cpf"
               placeholder="Digite seu CPF"
               autocomplete="off"
+              minlength="11"
               maxlength="14"
-              class="input required"
+              required
+              
             />
-            <span class="span-required">Digite um cpf válido</span>
+              <span  class="mensagem-erro"></span>
           </div>
-          <br><br>
-          
+          <br /><br />
+
           <input type="submit" value="Enviar" id="sent" />
-          
         </form>
       </section>
     </header>
-    <script src="./script.js" defer></script>
-    <script src="./script-input.js"></script>
   </body>
+  <script src="./Js/script.js" defer></script>
+  <script src="./Js/script-input.js"></script>
+  <script src="./Js/script-req.js" type="module"></script>
 </html>

@@ -1,7 +1,7 @@
 # formulario-de-validacao
 
 
-## Formulário para validação de dados.
+## Formulário para validação de dados para cadastro.
 
 Neste formulario utilizei as seguintes tecnologias:
 

@@ -1,16 +1,32 @@
-# formulario-de-validacao
+# Formulário de Validação com Máscaras para CPF e Telefone
+
+Este é um projeto que implementa um formulário de validação com máscaras para os campos de CPF e telefone utilizando JavaScript. A validação dos campos é feita utilizando RegEx e a manipulação do DOM é utilizada para aplicar as máscaras e a validação.
 
 
-## Formulário para validação de dados.
-
-Neste formulario utilizei as seguintes tecnologias:
-
-HTML <br>
-CSS<br>
-Java Script <br>
-
-Utilizei JavaScript para que pudesse colocar uma máscara nos campos CPF e TEL. Sendo assim, a máscara adiciona a pontuação necessária. O JavaScript também foi utilizado para criar validações, a fim de verificar se o input está preenchido e se os dados estão corretos. Caso não estejam, irá retornar uma mensagem de erro.
+## Como utilizar
 
 
 ![image](https://user-images.githubusercontent.com/96602150/232349607-0caecb88-410b-478e-a0ba-812cd9fc6bd5.png)
 
+1 - Faça um clone do repositório em sua máquina:
+git clone https://github.com/AquilesFernandoPassarella/formulario-de-validacao.git
+
+2 - Abra o arquivo index.html em seu navegador.
+
+3 - Preencha o formulário com dados válidos. O campo de CPF só aceita números e é formatado automaticamente com a máscara ###.###.###-##. O campo de telefone só aceita números e é formatado automaticamente com a máscara (##) ####-####. Caso os campos sejam preenchidos com dados inválidos, serão exibidas mensagens de erro.
+
+4 - Experimente inserir valores inválidos nos campos para ver a validação em ação.
+## Tecnologias utilizadas
+
+E caso não queira baicar o código basta entrar no link para testar diretamente: https://aquilesfernandopassarella.github.io/formulario-de-validacao/
+
+JavaScript: linguagem de programação utilizada para implementar as máscaras e a validação. <br>
+RegEx: expressões regulares utilizadas para definir as regras de validação dos campos.<br>
+Manipulação do DOM: técnica utilizada para aplicar as máscaras e a validação aos campos de CPF e telefone.
+
+
+
+
+## Contribuindo
+
+Se você quiser contribuir, sinta-se à vontade para enviar um pull request ou abrir uma issue.

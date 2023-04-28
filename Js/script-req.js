@@ -31,13 +31,6 @@ function verificaCampo(campo) {
     }
 
 }
-
-
-
-   
-
-
-
 const tiposDeErro = [
     'valueMissing',
     'typeMismatch',

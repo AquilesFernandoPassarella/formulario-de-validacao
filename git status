@@ -1,0 +1,84 @@
+[33mcommit 35f6ebced9c11e86becbfee0f6880cda4da80b2b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Fri Apr 28 00:39:20 2023 -0300
+
+    Js
+
+[33mcommit 953db88a2250746221381c7b1ee6140065924fb0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Sun Apr 16 20:45:17 2023 -0300
+
+    Final commit
+
+[33mcommit 9ca27ad04b59fcbb4a81cf414f25f163e5e9bb05[m
+Merge: 358e45c eb9032a
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Sun Apr 16 20:43:23 2023 -0300
+
+    Merge branch 'main' of https://github.com/AquilesFernandoPassarella/formulario-de-validacao
+
+[33mcommit 358e45c0322226e4c063c8f932f0fbe960544e09[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Sun Apr 16 20:38:26 2023 -0300
+
+    Commit final
+
+[33mcommit eb9032a78d0ddeac7f3e49903ca3d59f6993132e[m
+Author: Aquiles Fernando Passarella <96602150+AquilesFernandoPassarella@users.noreply.github.com>
+Date:   Sun Apr 16 20:37:15 2023 -0300
+
+    Update README.md
+
+[33mcommit 42535cd66d23bc6fa0354f4ec0d4affbcb69086a[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Sat Apr 15 23:12:50 2023 -0300
+
+    Alterando estilo e regras
+
+[33mcommit f4665ff4a5d049ff4aeb1e14dcfdc50235e7621d[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Fri Apr 14 00:40:10 2023 -0300
+
+    Alterando os estilos
+
+[33mcommit 06a175d1786d48fbbb6cc8ae31bac679cbc35b55[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Fri Apr 14 00:37:11 2023 -0300
+
+    Adicionando regras aos inputs
+
+[33mcommit 220d1af9dc437741bf59aab1b427569dc2cc5892[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Fri Apr 14 00:35:58 2023 -0300
+
+    Adicionando o script
+
+[33mcommit b2834a4f7b26c10c672eaf1ad8bd61a2c29d21bc[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Thu Apr 13 23:52:19 2023 -0300
+
+    Adicionando mascara
+
+[33mcommit 5269d227d3a516c41eff7339382a65cab3c84d2d[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Thu Apr 13 23:51:30 2023 -0300
+
+    Adicionando regras aos inputs
+
+[33mcommit 52ae2f849427b34566f6518f84a4a94ae7008cd9[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Tue Apr 11 22:24:48 2023 -0300
+
+    Adicionando estilos
+
+[33mcommit 4770b731a918c30f26f92e1cdb3e275e16494fdb[m
+Author: Aquiles Fernando Passarella <aquilesfernandop@hotmail.com>
+Date:   Mon Apr 10 23:55:34 2023 -0300
+
+    First commit
+
+[33mcommit e886d52d9f0197e354423ac8a0d355c15558f4fa[m
+Author: Aquiles Fernando Passarella <96602150+AquilesFernandoPassarella@users.noreply.github.com>
+Date:   Mon Apr 10 23:51:40 2023 -0300
+
+    Initial commit

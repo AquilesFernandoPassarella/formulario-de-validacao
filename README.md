@@ -16,9 +16,10 @@ git clone https://github.com/AquilesFernandoPassarella/formulario-de-validacao.g
 3 - Preencha o formulário com dados válidos. O campo de CPF só aceita números e é formatado automaticamente com a máscara ###.###.###-##. O campo de telefone só aceita números e é formatado automaticamente com a máscara (##) ####-####. Caso os campos sejam preenchidos com dados inválidos, serão exibidas mensagens de erro.
 
 4 - Experimente inserir valores inválidos nos campos para ver a validação em ação.
-## Tecnologias utilizadas
 
-E caso não queira baicar o código basta entrar no link para testar diretamente: https://aquilesfernandopassarella.github.io/formulario-de-validacao/
+E caso não queira baixar o código basta entrar no link para testar diretamente: https://aquilesfernandopassarella.github.io/formulario-de-validacao/
+
+## Tecnologias utilizadas
 
 JavaScript: linguagem de programação utilizada para implementar as máscaras e a validação. <br>
 RegEx: expressões regulares utilizadas para definir as regras de validação dos campos.<br>

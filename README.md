@@ -18,7 +18,6 @@ git clone https://github.com/AquilesFernandoPassarella/formulario-de-validacao.g
 4 - Experimente inserir valores inválidos nos campos para ver a validação em ação.
 
 E caso não queira baixar o código, basta entrar no link para testar diretamente: https://aquilesfernandopassarella.github.io/formulario-de-validacao/
-
 ## Tecnologias utilizadas
 
 JavaScript: linguagem de programação utilizada para implementar as máscaras e a validação. <br>
